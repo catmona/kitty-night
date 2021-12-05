@@ -1,0 +1,21 @@
+{
+    "name": "kitty-night",
+    "displayName": "kitty night",
+    "description": "A theme for cool cat's who stay up at night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "kitty night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kitty night-color-theme.json"
+            }
+        ]
+    }
+}
