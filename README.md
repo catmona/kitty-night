@@ -1,1 +1,1 @@
-*a cool theme for cool cats who stay up at night*
+*a theme for cool cats who stay up at night*
